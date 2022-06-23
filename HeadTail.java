@@ -24,8 +24,8 @@ public class HeadTail {
                 head=head+1;
             }
         }
-       // double headp = head/m ;
-        //double tailp = tail/m ;
+       //float headp = (float) ((head/m) * 100);
+        //double tailp = (tail/m) ;
         System.out.println(head);
         System.out.println(tail);
     }
